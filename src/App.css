@@ -36,12 +36,12 @@
   margin: 50px;
 }
 
-.header h1 {
+.title {
   color: #6e4c16;
   font-size: 3rem;
 }
 
-.header h3 {
+.date {
   color: #6b4b0b;
 }
 

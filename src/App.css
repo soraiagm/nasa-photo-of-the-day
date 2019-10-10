@@ -31,3 +31,25 @@
     transform: rotate(360deg);
   }
 }
+
+.explanation {
+  margin: 50px;
+}
+
+.header h1 {
+  color: #6e4c16;
+  font-size: 3rem;
+}
+
+.header h3 {
+  color: #6b4b0b;
+}
+
+.explanation {
+  color: #6b4b0b;
+  font-weight: bolder;
+}
+
+.copyright {
+  color: #6e4c16;
+}
